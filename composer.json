@@ -1,0 +1,13 @@
+{
+    "name": "yaiza/ipv4_geolocalizacion",
+    "authors": [
+        {
+            "name": "yaizaFC",
+            "email": "yaizafritis@gmail.com"
+        }
+    ],
+    "require": {
+        "ipinfo/ipinfo": "^1.1",
+        "foolz/inet": "^0.6.0"
+    }
+}

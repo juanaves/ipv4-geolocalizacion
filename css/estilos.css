@@ -1,0 +1,77 @@
+body {
+    position: relative;
+    background-color: rgba(0, 84, 153, 0.876);
+    margin-top: 90px;
+
+}
+
+#resul{
+    font-size: 20px;
+    color: white;
+}
+
+h1{
+    padding-top: 10px;
+}
+
+.material-icons.md-24{
+    font-size: 24px;
+    color: rgb(8, 184, 8);
+    margin: 6px;
+    margin-right: 10px;
+}
+
+#resul h3{
+    text-align: center;
+}
+
+#cuadro, #resul{
+    margin-top: 200px;
+    margin: 0px auto;
+    width: 500px;
+    padding: 10px;
+    background-color: rgba(0, 44, 80, 0.876);
+    border: 1px solid black;
+    font-size: 20px;
+    color: white;
+}
+#cuadro{
+    text-align: center;
+}
+
+#cuadro input#ip{
+    width: 300px;
+    height: 40px;
+    margin-bottom: 40px;
+    font-size: 22px;
+}
+
+#btnIp, #btnAtras{
+    width: 100%;
+    border: none;
+    background-color: rgba(0, 135, 246, 0.876);
+    color: white;
+    font-size: 24px;
+    height: 50px;
+}
+
+#btnIp{
+    margin-bottom: 70px;
+}
+
+#btnAtras{
+    margin-top: 30px;
+}
+
+#cuadro input#btnIp:hover, #btnAtras:hover{
+    background-color: white;
+    color: rgba(0, 135, 246, 0.876);
+}
+
+.creditos{
+    color: white;
+    font-style: italic;
+    font-size: 17px;
+    text-align: center;
+    padding: 0px;
+}
